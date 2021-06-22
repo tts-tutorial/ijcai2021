@@ -5,19 +5,20 @@
 
 ## Speakers
 
-<div style="display:inline">
+<div>
+<div style="float:left;display:inline">
 <a href="https://www.microsoft.com/en-us/research/people/xuta/">
 <img src="./photo/xuta.jpg">
 <div>Xu Tan<br>MSRA</div>
 </a>
 </div>
-<div style="display:inline">
+<div style="float:left;display:inline">
 <a href="https://www.microsoft.com/en-us/research/people/taoqin/">
 <img src="./photo/taoqin.jpg">
 <div>Tao Qin<br>MSRA</div>
 </a>
 </div>
-
+</div>
 
 
 
