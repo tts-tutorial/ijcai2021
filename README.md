@@ -5,7 +5,7 @@
 
 <div class="container">
   <h2>Speakers</h2>
-      <div>
+      <div display:inline;>
         <a href="https://www.microsoft.com/en-us/research/people/xuta/">
         <div class="instructorphoto"><img src="./photo/xuta.jpg"></div>
         <div>Xu Tan<br>MSRA</div>
@@ -28,23 +28,23 @@ Text to speech (TTS), which aims to synthesize natural and intelligible speech g
 
 ## Outline
 
-  1. Background <br>
-  2. Key components in TTS
-    2.1 Text analysis
-    2.2 Acoustic model
-    2.3 Vocoder
-    2.4 Towards end-to-end TTS
-  3. Advanced topics in TTS 
-    3.1 Fast TTS
-    3.2 Low-resource TTS
-    3.3 Robust TTS
-    3.4 Expressive TTS
-    3.5 Adaptive TTS
-  4. Challenges and Future Directions
+1. Background <br>
+2. Key components in TTS<br>
+  2.1 Text analysis<br>
+  2.2 Acoustic model<br>
+  2.3 Vocoder<br>
+  2.4 Towards end-to-end TTS<br>
+3. Advanced topics in TTS <br>
+  3.1 Fast TTS<br>
+  3.2 Low-resource TTS<br>
+  3.3 Robust TTS<br>
+  3.4 Expressive TTS<br>
+  3.5 Adaptive TTS<br>
+4. Challenges and Future Directions<br>
 
 ## Materials
 [Slides](TBD)<br>
-[Project page](https://www.microsoft.com/en-us/research/project/text-to-speech/)
+[Project page](https://www.microsoft.com/en-us/research/project/text-to-speech/)<br>
 [Speech demo page](https://speechresearch.github.io/)
 
 
