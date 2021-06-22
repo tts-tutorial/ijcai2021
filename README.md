@@ -28,24 +28,24 @@ Text to speech (TTS), which aims to synthesize natural and intelligible speech g
 
 ## Outline
 
-###    1. Background
-###    2. Key components in TTS
-####   2.1 Text analysis
-####   2.2 Acoustic model
-####   2.3 Vocoder
-####   2.4 Towards end-to-end TTS
-###    3. Advanced topics in TTS 
-####   3.1 Fast TTS
-####   3.2 Low-resource TTS
-####   3.3 Robust TTS
-####   3.4 Expressive TTS
-####   3.5 Adaptive TTS
-###    4. Challenges and Future Directions
+  1. Background <br>
+  2. Key components in TTS
+    2.1 Text analysis
+    2.2 Acoustic model
+    2.3 Vocoder
+    2.4 Towards end-to-end TTS
+  3. Advanced topics in TTS 
+    3.1 Fast TTS
+    3.2 Low-resource TTS
+    3.3 Robust TTS
+    3.4 Expressive TTS
+    3.5 Adaptive TTS
+  4. Challenges and Future Directions
 
 ## Materials
-### [Slides](TBD)
-### [Project page](https://www.microsoft.com/en-us/research/project/text-to-speech/)
-### [Speech demo page](https://speechresearch.github.io/)
+[Slides](TBD)<br>
+[Project page](https://www.microsoft.com/en-us/research/project/text-to-speech/)
+[Speech demo page](https://speechresearch.github.io/)
 
 
 ## Other Related Links
