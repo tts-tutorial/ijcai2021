@@ -1,27 +1,20 @@
-
 <center><b><span style="font-size:24pt">Neural Text to Speech Synthesis</span></b><br></center>
-<center><b><span style="font-size:16pt">Tutorial @ <a href="http://ijcai-21.org" target="_blank">IJCAI 2021</a>, August 19-26, 2021</span></center></b>
-<center><b><span style="font-size:15pt"><a href="https://www.microsoft.com/en-us/research/people/xuta/" target="_blank">Xu Tan</a> and <a href="https://www.microsoft.com/en-us/research/people/taoqin/" href="_blank">Tao Qin</a></span></center></b><br><br>
+<center><b><span style="font-size:16pt">Tutorial @ <a href="http://ijcai-21.org" target="_blank">IJCAI 2021</a>, August 19-26, 2021</span></b></center>
+<center><b><span style="font-size:15pt"><a href="https://www.microsoft.com/en-us/research/people/xuta/" target="_blank">Xu Tan</a> and <a href="https://www.microsoft.com/en-us/research/people/taoqin/" href="_blank">Tao Qin</a></span></b></center><br><br>
 
 
 <div class="container">
   <h2>Speakers</h2>
-    <div>
-      <div class="instructor">
+      <div>
         <a href="https://www.microsoft.com/en-us/research/people/xuta/">
         <div class="instructorphoto"><img src="./photo/xuta.jpg"></div>
         <div>Xu Tan<br>MSRA</div>
         </a>
-      </div>
-
-      <div class="instructor">
         <a href="https://www.microsoft.com/en-us/research/people/taoqin/">
         <div class="instructorphoto"><img src="./photo/taoqin.jpg"></div>
         <div>Tao Qin<br>MSRA</div>
         </a>
       </div>
-
-    </div>
 </div>   
 
 
