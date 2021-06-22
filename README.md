@@ -3,19 +3,17 @@
 <center><b><span style="font-size:15pt"><a href="https://www.microsoft.com/en-us/research/people/xuta/" target="_blank">Xu Tan</a> and <a href="https://www.microsoft.com/en-us/research/people/taoqin/" href="_blank">Tao Qin</a></span></b></center><br><br>
 
 
-<div class="container">
-  <h2>Speakers</h2>
+## Speakers
       <div style="float:left;">
         <a href="https://www.microsoft.com/en-us/research/people/xuta/">
-        <div class="instructorphoto"><img src="./photo/xuta.jpg"></div>
+        <img src="./photo/xuta.jpg">
         <div>Xu Tan<br>MSRA</div>
         </a>
         <a href="https://www.microsoft.com/en-us/research/people/taoqin/">
-        <div class="instructorphoto"><img src="./photo/taoqin.jpg"></div>
+        <img src="./photo/taoqin.jpg">
         <div>Tao Qin<br>MSRA</div>
         </a>
       </div>
-</div>   
 
 
 
