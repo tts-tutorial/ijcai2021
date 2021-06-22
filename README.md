@@ -5,7 +5,7 @@
 
 <div class="container">
   <h2>Speakers</h2>
-      <div class="display:flex">
+      <div style="float:left;">
         <a href="https://www.microsoft.com/en-us/research/people/xuta/">
         <div class="instructorphoto"><img src="./photo/xuta.jpg"></div>
         <div>Xu Tan<br>MSRA</div>
