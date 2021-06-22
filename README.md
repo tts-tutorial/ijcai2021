@@ -3,7 +3,7 @@ Tutorial @ [IJCAI 2021](http://ijcai-21.org), August 19-26, 2021
 
 
 ## Speakers
-[Xu Tan](https://www.microsoft.com/en-us/research/people/xuta/), Microsoft Research Asia, <xuta@microsoft.com>
+[Xu Tan](https://www.microsoft.com/en-us/research/people/xuta/), Microsoft Research Asia, <xuta@microsoft.com> <br>
 [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/), Microsoft Research Asia, <taoqin@microsoft.com>
 
 
@@ -27,7 +27,7 @@ Text to speech (TTS), which aims to synthesize natural and intelligible speech g
   3.3 Robust TTS<br>
   3.4 Expressive TTS<br>
   3.5 Adaptive TTS<br>
-4. Challenges and Future Directions<br>
+4. Challenges and future directions<br>
 
 ## Materials
 [Slides](TBD)<br>
