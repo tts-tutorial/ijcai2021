@@ -4,16 +4,19 @@
 
 
 ## Speakers
-![xuta](./photo/xuta.jpg)
-![taoqin](./photo/taoqin.jpg)
-        <a href="https://www.microsoft.com/en-us/research/people/xuta/">
-        <img src="./photo/xuta.jpg">
-        <div>Xu Tan<br>MSRA</div>
-        </a>
-        <a href="https://www.microsoft.com/en-us/research/people/taoqin/">
-        <img src="./photo/taoqin.jpg">
-        <div>Tao Qin<br>MSRA</div>
-        </a>
+
+<div style="display:inline">
+<a href="https://www.microsoft.com/en-us/research/people/xuta/">
+<img src="./photo/xuta.jpg">
+<div>Xu Tan<br>MSRA</div>
+</a>
+</div>
+<div style="display:inline">
+<a href="https://www.microsoft.com/en-us/research/people/taoqin/">
+<img src="./photo/taoqin.jpg">
+<div>Tao Qin<br>MSRA</div>
+</a>
+</div>
 
 
 
