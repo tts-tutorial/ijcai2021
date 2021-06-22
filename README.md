@@ -1,16 +1,16 @@
 
 
 # Neural Text to Speech Synthesis
-##Tutorial @ [IJCAI 2021](http://ijcai-21.org), August 19-26, 2021
+## Tutorial @ [IJCAI 2021](http://ijcai-21.org), August 19-26, 2021
 
 ## Speakers
 
-<div style="float:left;display:inline">
-<a href="https://www.microsoft.com/en-us/research/people/xuta/">
+<div>
+<a style="float:left;display:inline" href="https://www.microsoft.com/en-us/research/people/xuta/">
 <img src="./photo/xuta.jpg">
 <div>Xu Tan<br>MSRA</div>
 </a>
-<a href="https://www.microsoft.com/en-us/research/people/taoqin/">
+<a style="float:left;display:inline" href="https://www.microsoft.com/en-us/research/people/taoqin/">
 <img src="./photo/taoqin.jpg">
 <div>Tao Qin<br>MSRA</div>
 </a>
