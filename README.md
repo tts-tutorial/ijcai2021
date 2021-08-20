@@ -30,7 +30,7 @@ Text to speech (TTS), which aims to synthesize natural and intelligible speech g
 4. Challenges and future directions<br>
 
 ## Materials
-[Slides](TBD)<br>
+[Slides](https://www.microsoft.com/en-us/research/uploads/prod/2021/08/TTS.ijcai21.pdf)<br>
 [Project page](https://www.microsoft.com/en-us/research/project/text-to-speech/)<br>
 [Speech demo page](https://speechresearch.github.io/)
 
@@ -38,4 +38,8 @@ Text to speech (TTS), which aims to synthesize natural and intelligible speech g
 ## Other Related Links
 [TTS tutorial](https://www.microsoft.com/en-us/research/uploads/prod/2021/02/ISCSLP2021-TTS-Tutorial.pdf) @ [ISCSLP 2021](https://www.iscslp2021.org/program/tutorials/)<br> 
 [A talk on FastSpeech](https://resource.gtcevent.cn/gtc2020/pdf/CNS20269.pdf) @ NVIDIA GTC China 2020 <br>
+[A talk on low-resource TTS](https://mp.weixin.qq.com/s/qEhsoWwi2MEL5Ude5QvBag) <br>
+[A webinar talk on TTS](https://www.youtube.com/watch?v=MA8PCvmr8B0)<br>
+[A talk on Towards Efficient Machine Learning for Speech and Music Applications](https://www.microsoft.com/en-us/research/uploads/prod/2021/07/Efficient-ML-for-Speech-and-Music-Xu-Tan.pdf)
+
 
