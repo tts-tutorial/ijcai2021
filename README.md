@@ -30,7 +30,7 @@ Text to speech (TTS), which aims to synthesize natural and intelligible speech g
 4. Challenges and future directions<br>
 
 ## Materials
-[Slides](https://www.microsoft.com/en-us/research/uploads/prod/2021/08/TTS.ijcai21.pdf)<br>
+[Slides](https://www.microsoft.com/en-us/research/uploads/prod/2023/04/TTS.ijcai21-642be55185047.pdf)<br>
 [Project page](https://www.microsoft.com/en-us/research/project/text-to-speech/)<br>
 [Speech demo page](https://speechresearch.github.io/)
 
